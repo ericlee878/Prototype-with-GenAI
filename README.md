@@ -2,6 +2,7 @@ My Experience
 
 Does the code work? If not, what's broken.
 - The code runs and mostly works. Some functionalities are not exactly as I envisioned them, and it was difficult to get GPT to get the functionality to exactly how I wanted it.
+- The code has a basic timer that can be stopped and started. There is also a user queue. However, the two-minute warning was not able to be implemented.
 
 How is the code better than what the team currently has?
 - No.
