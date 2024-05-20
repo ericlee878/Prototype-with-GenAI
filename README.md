@@ -1,4 +1,4 @@
-Write up your experience in the README fileLinks to an external site. of the repository. 
+My Experience
 
 Does the code work? If not, what's broken.
 - The code runs and mostly works. Some functionalities are not exactly as I envisioned them, and it was difficult to get GPT to get the functionality to exactly how I wanted it.
